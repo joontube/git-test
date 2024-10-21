@@ -1,5 +1,5 @@
 # GIT TEST
 
-깃 테스트입니다.
+깃 테스트입니다.2
 
 INITIAL COMMIT
